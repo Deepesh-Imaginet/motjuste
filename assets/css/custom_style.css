@@ -10,6 +10,10 @@ a {
 
 /* Header Start */
 
+nav.navbar.navbar-expand-sm.navbar-light img {
+    width: 120px;
+}
+
 .navbar {
     justify-content: space-between;
     padding: .5rem 0;
