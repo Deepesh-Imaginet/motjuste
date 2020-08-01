@@ -411,6 +411,10 @@ ul.first-level.social img {
     .navbar-light .navbar-nav .nav-link {
         padding: .8rem 1rem;
     }
+
+    nav.navbar.navbar-expand-sm.navbar-light img {
+        width: 110px;
+    }
 }
 
 @media (min-width: 576px) and (max-width:767px) {
